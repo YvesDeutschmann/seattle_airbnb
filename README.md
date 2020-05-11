@@ -15,3 +15,6 @@ https://www.kaggle.com/airbnb/seattle
 ## Summary
 We found that there is a seasonal climb in homestay price with a peak in the sommer month. Also the prices on a Friday an d Saturday will genrally be higher than for the rest of the week.
 We also found that the prices will climb the more you move towards the downtown area. But higher prices doesn't correlate to higher guest satisfaction. In fact the guest satisfaction was lower on average for the most expansive and the cheapest neighborhoods.
+
+There is also a short blog post on this topic that you can find here:
+https://medium.com/@yves.deutschmann/mi-casa-es-su-casa-ea13a052ae89?source=friends_link&sk=520cbf42061fd18f23874c100f375e98
