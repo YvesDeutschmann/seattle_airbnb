@@ -3,13 +3,12 @@
 ## Overview and motivation
 My friend told me about the establsihment of AMazon and other tech giants in the area of Seattle and the crazy climb in prices for a space to live in. Planning on visiting this area soon I was curious to see what the Airbnb data might look like. More specifically, I wanted to know more about the price of listings and better understand guest satisfaction.
 
-I used a Kaggle dataset for Seattles Airbnb data from the year 2016.
+I used a Kaggle dataset for Seattles Airbnb data from the year 2016. The data can be found here:
+https://www.kaggle.com/airbnb/seattle
 
 ## Files
+- **AirbnbSeattle.ipynb**: jupyter notebook for analysis of the dataset
 - **requirements.txt**: textfile describing python libraries and depencies used for this project
-- **calendar.csv**: csv file describing price and availabilty of listings over the year 2016
-- **listings.csv**: csv file describing the specifications of each listing
-- **reviews.csv**: csv file with the actual reviews for the listings
 - **neighbourhood.geojson**: json file with geological data for Seattle's neighborhoods
 - **neighbourhoods.csv**: csv file with with geological data for Seattle's neighborhoods
 
