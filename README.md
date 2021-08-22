@@ -7,10 +7,13 @@ I used a Kaggle dataset for Seattles Airbnb data from the year 2016. The data ca
 https://www.kaggle.com/airbnb/seattle
 
 ## Files
+- **PricePrediction.ipynb**: jupyter notebook with predictive models
 - **AirbnbSeattle.ipynb**: jupyter notebook for analysis of the dataset
 - **requirements.txt**: textfile describing python libraries and depencies used for this project
+- **environment.yml**: textfile describing the conda environment with the libraries used for this project
 - **neighbourhood.geojson**: json file with geological data for Seattle's neighborhoods
 - **neighbourhoods.csv**: csv file with with geological data for Seattle's neighborhoods
+- **calendar.csv/listings.csv/reviews.csv**: csv files containing the original datasets
 
 ## Summary
 We found that there is a seasonal climb in homestay price with a peak in the sommer month. Also the prices on a Friday an d Saturday will genrally be higher than for the rest of the week.
