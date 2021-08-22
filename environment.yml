@@ -1,0 +1,19 @@
+name: seattle_airbnb
+dependencies:
+  - ipykernel
+  - geopandas
+  - python
+  - pip
+  - pip:
+    - descartes
+    - matplotlib
+    - notebook
+    - numpy
+    - openpyxl
+    - pandas
+    - plotly
+    - pylint
+    - seaborn
+    - scikit-learn
+    - xgboost
+    - xlrd
